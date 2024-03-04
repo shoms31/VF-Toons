@@ -1,85 +1,54 @@
-{
-    "cover": "https://dl.dropbox.com/s/g3hwkov3u9fzhkh/La%20squatteuse%20episode%203%20scan%20gratuit.jpg?dl=0\r\nChapitre 1",
-    "titre": "La Squatteuse",
-    "statut": "Terminé",
-    "studio": "Funch Studio",
-    "description": "Je suis obligé de laisser la petite sœur de mon ami vivre chez moi. Elle ne paye même pas le loyer et ne fait rien à la maison ! La vie est vraiment injuste !",
-    "chapitres": [
-        {
-            "name": "https://dl.dropbox.com/s/zzcia2rqozc40ra/Chapitre%201.pdf?dl=0\r\nChapitre 2",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/dtn91x2gwk8qz3k/Chapitre%202.pdf?dl=0\r\nChapitre 3",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/1ycpujce8dccfab/Chapitre%203.pdf?dl=0\r\nChapitre 4",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/h3boyomqzz4mf4b/Chapitre%204.pdf?dl=0\r\nChapitre 5",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/amflt2ocjyr93dj/Chapitre%205.pdf?dl=0\r\nChapitre 6",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/a3acbhxx4nbcsja/Chapitre%206.pdf?dl=0\r\nChapitre 7",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/ta6q6r8e845qb7c/Chapitre%207.pdf?dl=0\r\nChapitre 8",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/kukenvlripjnbgj/Chapitre%208.pdf?dl=0\r\nChapitre 9",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/qg6gvvnuxw3kzja/Chapitre%209.pdf?dl=0\r\nChapitre 10",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/im087dovpnk6i5u/Chapitre%2010.pdf?dl=0\r\nChapitre 11",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/6axfmstf0te7z6x/Chapitre%2011.pdf?dl=0\r\nChapitre 12",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/dq510joytef7sha/Chapitre%2012.pdf?dl=0\r\nChapitre 13",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/bdzq6o64yzze8ai/Chapitre%2013.pdf?dl=0\r\nChapitre 14",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/zpm4glzj3evxpw1/Chapitre%2014.pdf?dl=0\r\nChapitre 15",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/hpqipiddnyh6jbs/Chapitre%2015.pdf?dl=0\r\nChapitre 16",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/4lz7840s5oqde0c/Chapitre%2016.pdf?dl=0\r\nChapitre 17",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/5m8vqioihyku7b6/Chapitre%2017.pdf?dl=0\r\nChapitre 18",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/nrokiq85p88l5fe/Chapitre%2018.pdf?dl=0\r\nChapitre 19",
-            "link": ""
-        },
-        {
-            "name": "https://dl.dropbox.com/s/12llxgxmmivj1tp/Chapitre%2019.pdf?dl=0",
-            "link": ""
-        }
-    ]
-}
+[
+    Comics("https://dl.dropbox.com/s/g3hwkov3u9fzhkh/La%20squatteuse%20episode%203%20scan%20gratuit.jpg?dl=0",
+        "La Squatteuse",
+        "19 Chapitres",
+        "Terminé",
+        false,
+        "Je suis obligé de laisser la petite sœur de mon ami vivre chez moi. Elle ne paye même pas le loyer et ne fait rien à la maison La vie est vraiment injuste !",
+        [
+          {'name': 'Chapitre 1', 'link': 'https://dl.dropbox.com/s/zzcia2rqozc40ra/Chapitre%201.pdf?dl=0'},
+          {'name': 'Chapitre 2', 'link': 'https://dl.dropbox.com/s/dtn91x2gwk8qz3k/Chapitre%202.pdf?dl=0'},
+          {'name': 'Chapitre 3', 'link': 'https://dl.dropbox.com/s/1ycpujce8dccfab/Chapitre%203.pdf?dl=0'},
+          {'name': 'Chapitre 4', 'link': 'https://dl.dropbox.com/s/h3boyomqzz4mf4b/Chapitre%204.pdf?dl=0'},
+          {'name': 'Chapitre 5', 'link': 'https://dl.dropbox.com/s/amflt2ocjyr93dj/Chapitre%205.pdf?dl=0'},
+          {'name': 'Chapitre 6', 'link': 'https://dl.dropbox.com/s/a3acbhxx4nbcsja/Chapitre%206.pdf?dl=0'},
+          {'name': 'Chapitre 7', 'link': 'https://dl.dropbox.com/s/ta6q6r8e845qb7c/Chapitre%207.pdf?dl=0'},
+          {'name': 'Chapitre 8', 'link': 'https://dl.dropbox.com/s/kukenvlripjnbgj/Chapitre%208.pdf?dl=0'},
+          {'name': 'Chapitre 9', 'link': 'https://dl.dropbox.com/s/qg6gvvnuxw3kzja/Chapitre%209.pdf?dl=0'},
+          {'name': 'Chapitre 10', 'link': 'https://dl.dropbox.com/s/im087dovpnk6i5u/Chapitre%2010.pdf?dl=0'},
+          {'name': 'Chapitre 11', 'link': 'https://dl.dropbox.com/s/6axfmstf0te7z6x/Chapitre%2011.pdf?dl=0'},
+          {'name': 'Chapitre 12', 'link': 'https://dl.dropbox.com/s/dq510joytef7sha/Chapitre%2012.pdf?dl=0'},
+          {'name': 'Chapitre 13', 'link': 'https://dl.dropbox.com/s/bdzq6o64yzze8ai/Chapitre%2013.pdf?dl=0'},
+          {'name': 'Chapitre 14', 'link': 'https://dl.dropbox.com/s/zpm4glzj3evxpw1/Chapitre%2014.pdf?dl=0'},
+          {'name': 'Chapitre 15', 'link': 'https://dl.dropbox.com/s/hpqipiddnyh6jbs/Chapitre%2015.pdf?dl=0'},
+          {'name': 'Chapitre 16', 'link': 'https://dl.dropbox.com/s/4lz7840s5oqde0c/Chapitre%2016.pdf?dl=0'},
+          {'name': 'Chapitre 17', 'link': 'https://dl.dropbox.com/s/5m8vqioihyku7b6/Chapitre%2017.pdf?dl=0'},
+          {'name': 'Chapitre 18', 'link': 'https://dl.dropbox.com/s/nrokiq85p88l5fe/Chapitre%2018.pdf?dl=0'},
+          {'name': 'Chapitre 19', 'link': 'https://dl.dropbox.com/s/12llxgxmmivj1tp/Chapitre%2019.pdf?dl=0'},
+        ]
+    ),
+    Comics("https://cumming.icu/CheminVengeance/Le%20chemin%20vers%20la%20vengeance.jpg",
+        "Le Chemin vers la Vengeance",
+        "16 Chapitres",
+        "En cours",
+        true,
+        "Cha Kwon-ho, homme riche et puissant, a deux fils. Chanyeol l'aîné, et Chan-ok, qui a été adopté. Sa mort va changer leur destin et Chanyeol ignore totalement son frère. Quelques années plus tard, Chan-ok divorce de sa femme et est criblé de dettes, avec un fils qui n'arrête pas de lui demander de l'argent. Face au désarroi, il met sa fierté de côté pour aller demander de l'argent à... son frère... En y allant, il tombe sur sa belle-sœur, qui lui annonce qu'ils sont dans le même bateau... de la vengeance.",
+        [
+          {'name': 'Chapitre 1', 'link': 'https://drive.google.com/uc?export=download&id=1E9_GncAZ2qGbBjJm-yoBwPYfQC-iQFkO'},
+          {'name': 'Chapitre 2', 'link': 'https://drive.google.com/uc?export=download&id=1E9_GncAZ2qGbBjJm-yoBwPYfQC-iQFkO'},
+        ]
+    ),
+    Comics("https://raw.githubusercontent.com/shoms31/VF-Toons/main/yuri.jpg",
+        "Yuri la chaudasse",
+        "4 Chapitres",
+        "Terminé",
+        false,
+        "Fille timide aux gros seins qui aime se faire tripoter par ses copines jalouses de sa grosse poitrine.!",
+        [
+          {'name': 'Chapitre 1', 'link': 'https://drive.google.com/uc?export=download&id=1EXEsSKlCCSt1jQZlV0yYNaF6FUdcMqT8'},
+          {'name': 'Chapitre 2', 'link': 'https://drive.google.com/uc?export=download&id=1EYLmdW3moufqqjIG5muV3j32yV3lnlWg'},
+          {'name': 'Chapitre 3', 'link': 'https://drive.google.com/uc?export=download&id=1ElYWIAQDv-CUeEYnEHr8YDiZjLY_uY4n'},
+          {'name': 'Chapitre 4', 'link': 'https://drive.google.com/uc?export=download&id=1EqiIQ8AK_IvEg-WOw-0JaRglt3t40mOe'},
+        ]
+    ),
+        ]
