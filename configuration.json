@@ -1,0 +1,16 @@
+{
+    "android": {
+        "version": {
+            "minimum": "1.5.0",
+            "latest": "1.6.0"
+        },
+        "download_url": "https://play.google.com/store/apps/details?id=app.librokit",
+        "status": {
+            "active": true,
+            "message": {
+                "en": "App is in maintanence mode, please come back later.",
+                "fr": "L'application est en maintenance, s'il te plaît reviens plus tard",
+            }
+        }
+    }
+}
