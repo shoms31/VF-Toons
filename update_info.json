@@ -1,6 +1,7 @@
 {
-  "version": "1.0.0",
-  "download_link": "https://www.dropbox.com/scl/fi/q0ftnz9fauu167iyfgb86/VF-Toons-1.0.0.apk?rlkey=luiv4x20tbrkwtyjuo0bhdz0r&dl=1",
-  "required_update": "true",
-  "key": "var i = 14226-11420334e10"
+  "version": "1.5.0",
+  "download_link": "https://www.dropbox.com/scl/fi/b20ovjrdpvk7nz2ovwxr2/VF-Toons-1.5.0.apk?rlkey=4zyknosc603xzxbl29jjq49it&dl=1",
+  "required_update": "false",
+  "key": "var i = 14226-11420334e10",
+  "message" : "Une nouvelle version est disponible"
 }
