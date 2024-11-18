@@ -2,7 +2,7 @@
   "version": "1.9.0",
   "download_link": "https://www.dropbox.com/scl/fi/vs5cvyud0hymuu54h4yij/VF-Toons-1.9.0.apk?rlkey=i4j5atte2mkzkisxmf2g9v440&dl=1",
    "required_update": "true",
-   "active": "false",
+   "active": "true",
   "key": "var i = 14226-11420334e10",
    "message" : "1.9.0\nexpérience optimisée et lecture améliorée"
 }
